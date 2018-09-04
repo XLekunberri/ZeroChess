@@ -1,0 +1,6 @@
+tensorflow-gpu
+keras
+python-chess
+numpy
+tqdm
+keras-tqdm
